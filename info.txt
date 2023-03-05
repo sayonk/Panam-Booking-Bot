@@ -1,0 +1,22 @@
+EMAIL SENDING:
+user = notifications@email.com
+pass = password
+error handling = your@email.com
+
+USERS:
+tpasc-username
+
+PASSWORDS:
+tpasc-password
+
+EMAILS:
+your@email.com
+
+RUNS:
+Drop-in Badminton-(All Access -17+), Drop-in Basketball - 17+ (All-Access)
+
+START TIMES:
+6:00pm, 7:00am
+
+END TIMES:
+11:00pm, 11:00pm
